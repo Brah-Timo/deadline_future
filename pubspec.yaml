@@ -1,0 +1,28 @@
+name: deadline_future
+description: >-
+  A Dart package that provides graceful timeout handling by returning cached or fallback values instead of throwing exceptions, ensuring resilient real-time applications and uninterrupted user experiences.
+
+version: 0.1.0
+homepage: https://github.com/Brah-Timo/deadline_future
+repository: https://github.com/Brah-Timo/deadline_future
+issue_tracker: https://github.com/Brah-Timo/deadline_future/issues
+documentation: https://pub.dev/documentation/deadline_future/latest/
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  meta: ^1.9.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
+  benchmark_harness: ^2.2.0
+
+topics:
+  - async
+  - future
+  - timeout
+  - real-time
+  - utility
+

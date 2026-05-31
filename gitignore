@@ -1,0 +1,19 @@
+# Dart/Flutter tool files
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Test coverage
+coverage/
+lcov.info
+
+# Generated
+*.g.dart
+*.freezed.dart
+doc/api/
